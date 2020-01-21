@@ -6,9 +6,9 @@ spring:
 spring:
   profiles: dev  #开发环境
   application:
-    name: Rubbish-service dev
+    name: Rubbish-service-dev
 ---
 spring:
   profiles: test #测试环境
     application:
-      name: Rubbish-service test
+      name: Rubbish-service-test
