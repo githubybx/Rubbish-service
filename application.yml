@@ -10,5 +10,5 @@ spring:
 ---
 spring:
   profiles: test
-    application:
-      name: Rubbish-service-test
+  application:
+     ame: Rubbish-service-test
