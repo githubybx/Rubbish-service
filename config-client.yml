@@ -22,5 +22,5 @@ eureka:
       defaultZone: http://eureka7003.com:7003/eureka/
 spring:
   profiles: test #测试环境
-    application:
-      name: Rubbish-service test
+  application:
+    name: Rubbish-service test
