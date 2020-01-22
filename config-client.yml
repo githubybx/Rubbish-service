@@ -12,7 +12,7 @@ eureka:
 spring:
   profiles: dev  #开发环境
   application:
-    name: Rubbish-service dev
+    name: Rubbish-service-dev
 ---
 server:
   port: 8002
@@ -23,4 +23,4 @@ eureka:
 spring:
   profiles: test #测试环境
   application:
-    name: Rubbish-service test
+    name: Rubbish-service-test
